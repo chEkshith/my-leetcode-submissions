@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
