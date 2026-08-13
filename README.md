@@ -2,8 +2,6 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
-<!--thank you -->
-# Hello This is Ekshith!
 # LeetCode Topics
 ## Array
 |  |
@@ -42,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0168-excel-sheet-column-title) |
 | [0709-to-lower-case](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0709-to-lower-case) |
 ## Hash Table
 |  |
@@ -68,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0168-excel-sheet-column-title) |
 ## Bit Manipulation
 |  |
 | ------- |
