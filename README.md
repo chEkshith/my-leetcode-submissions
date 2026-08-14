@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0200-number-of-islands) |
 ## Stack
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -169,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0141-linked-list-cycle) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
