@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0283-move-zeroes) |
+| [0494-target-sum](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0494-target-sum](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0494-target-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -180,4 +182,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
