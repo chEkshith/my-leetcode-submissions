@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0494-target-sum) |
+| [2418-sort-the-people](https://github.com/chEkshith/my-leetcode-submissions/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [2418-sort-the-people](https://github.com/chEkshith/my-leetcode-submissions/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0168-excel-sheet-column-title) |
 | [0709-to-lower-case](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0709-to-lower-case) |
+| [2418-sort-the-people](https://github.com/chEkshith/my-leetcode-submissions/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0169-majority-element) |
+| [2418-sort-the-people](https://github.com/chEkshith/my-leetcode-submissions/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
