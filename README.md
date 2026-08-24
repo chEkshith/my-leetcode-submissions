@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0141-linked-list-cycle) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0168-excel-sheet-column-title) |
 | [0709-to-lower-case](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0709-to-lower-case) |
@@ -208,4 +210,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0011-container-with-most-water) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
