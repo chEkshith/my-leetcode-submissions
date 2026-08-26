@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0169-majority-element) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0168-excel-sheet-column-title) |
 ## Bit Manipulation
