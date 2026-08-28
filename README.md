@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0168-excel-sheet-column-title) |
 ## Bit Manipulation
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0494-target-sum](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0494-target-sum) |
 ## Matrix
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
