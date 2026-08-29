@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
