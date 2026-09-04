@@ -90,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
