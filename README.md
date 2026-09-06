@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/chEkshith/my-leetcode-submissions/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0709-to-lower-case) |
 | [2418-sort-the-people](https://github.com/chEkshith/my-leetcode-submissions/tree/master/2418-sort-the-people) |
 ## Hash Table
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/chEkshith/my-leetcode-submissions/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
