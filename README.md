@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0494-target-sum) |
 | [2418-sort-the-people](https://github.com/chEkshith/my-leetcode-submissions/tree/master/2418-sort-the-people) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0268-missing-number) |
 | [2418-sort-the-people](https://github.com/chEkshith/my-leetcode-submissions/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0268-missing-number) |
 | [2418-sort-the-people](https://github.com/chEkshith/my-leetcode-submissions/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -133,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
