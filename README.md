@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0494-target-sum](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0494-target-sum) |
 | [2418-sort-the-people](https://github.com/chEkshith/my-leetcode-submissions/tree/master/2418-sort-the-people) |
 ## Two Pointers
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -261,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0070-climbing-stairs) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
