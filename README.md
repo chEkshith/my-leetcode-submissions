@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0494-target-sum](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [2418-sort-the-people](https://github.com/chEkshith/my-leetcode-submissions/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [2418-sort-the-people](https://github.com/chEkshith/my-leetcode-submissions/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
