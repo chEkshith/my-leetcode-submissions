@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0709-to-lower-case) |
 | [2418-sort-the-people](https://github.com/chEkshith/my-leetcode-submissions/tree/master/2418-sort-the-people) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0268-missing-number) |
