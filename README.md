@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0200-number-of-islands) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0494-target-sum](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0509-fibonacci-number) |
