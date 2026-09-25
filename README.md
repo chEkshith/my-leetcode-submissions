@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
