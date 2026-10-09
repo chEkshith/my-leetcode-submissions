@@ -3,7 +3,7 @@ A collection of LeetCode questions to ace the coding interview!
 <!--hi-->
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Array
+## Array.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0001-two-sum) |
