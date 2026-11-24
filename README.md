@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0027-remove-element](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0066-plus-one) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0012-integer-to-roman](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0067-add-binary) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0200-number-of-islands) |
 ## Stack
