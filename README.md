@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0042-trapping-rain-water](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0066-plus-one) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0258-add-digits) |
 ## Linked List
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/chEkshith/my-leetcode-submissions/tree/master/0200-number-of-islands) |
 ## Stack
